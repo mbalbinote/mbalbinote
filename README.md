@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi everyone 👋
+
+My name is Matheus, but you can call me Balbi.
+
+I’m currently learning python for data science.
+
+
 
 <!--
 **mbalbinote/mbalbinote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
