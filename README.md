@@ -7,7 +7,7 @@ My name is Matheus, but you can call me Balbi.
 
 I’m currently learning Python, R and SQL for work with data science.
 
-<div style="width: 200px;">
+<div style="width: 150px;">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalbinote&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalbinote&layout=compact" alt="Top Langs" />
 </a>
