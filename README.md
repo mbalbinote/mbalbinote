@@ -11,8 +11,8 @@ I’m currently learning Python, R and SQL for work with data science.
 </a>
 
 <div style="width: 200px;">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalbinote">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalbinote&langs_count=8" alt="Top Langs" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalbinote&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalbinote&layout=compact" alt="Top Langs" />
 </a>
 </div>
 
