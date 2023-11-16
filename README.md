@@ -2,7 +2,7 @@
 
 My name is Matheus, but you can call me Balbi.
 
-I’m currently learning python, R and SQL for work with data science.
+I’m currently learning Python, R and SQL for work with data science.
 
 
 
