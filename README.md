@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-My name is Matheus, but you can call me Balbi.
+My name is Matheus Balbinote, but you can call me Balbi.
 
 I’m currently learning Python, R and SQL for work with data science.
 
