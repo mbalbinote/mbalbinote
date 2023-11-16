@@ -10,7 +10,11 @@ I’m currently learning Python, R and SQL for work with data science.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-[<img src="[https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png](https://yt3.googleusercontent.com/ytc/APkrFKYvD27NPImtl6QvbBdJ7p3R1KcZ_a-CyJAYvBv1=s176-c-k-c0x00ffffff-no-rj)" width="70">](https://hotmart.com/pt-br/marketplace/produtos/clube-de-assinaturas-da-universidade-dos-dados/Y79687647W)
+<div style="width: 200px;">
+<a href="https://github.com/mbalbinote/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+</a>
+</div>
 
 <!--
 **mbalbinote/mbalbinote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
