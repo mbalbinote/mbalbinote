@@ -1,14 +1,10 @@
 ### Hi everyone 👋
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matheus-balbinote/)  <a href="balbinotematheus@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 My name is Matheus, but you can call me Balbi.
 
 I’m currently learning Python, R and SQL for work with data science.
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matheus-balbinote/)
-
-<a href="balbinotematheus@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <div style="width: 200px;">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalbinote&layout=compact">
