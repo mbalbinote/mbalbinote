@@ -12,7 +12,7 @@ I’m currently learning Python, R and SQL for work with data science.
 
 <div style="width: 200px;">
 <a href="https://github.com/mbalbinote/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalbinote&langs_count=8" alt="Top Langs" />
 </a>
 </div>
 
